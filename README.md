@@ -5,4 +5,4 @@ A 21-year-old energetic boy, a pianist, a martial artist.
 [![Releases](https://img.shields.io/github/release/ThihaKZ16/sem/all.svg?style=flat-square)](https://github.com/ThihaKZ16/sem/releases)
 
 # Software Engineering Methods
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ThihaKZ16/sem/A workflow for my Hello World App/develop?style=flat-square)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ThihaKZ16/sem/A%20workflow%20for%20my%20Hello%20World%20App/develop?style=flat-square)
